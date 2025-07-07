@@ -1,0 +1,37 @@
+Các đề sêm sêm nhau.
+
+Đề 1 là tệp SinhVien và có thêm vài chức năng khác để tham khảo
+
+Đề kiểu như này: đọc file nhanvien.dat gồm danh sách các nhân viên với định dạng lưu trữ như sau
+                  mỗi nhân viên được lưu trên 1 dòng, mỗi thuộc tính phân cách bởi ký tự “$”
+thì Tệp Đề 3 thì t tạo không tạo form, còn tệp Đề 4 giống đề 3 thì t tạo form.
+
+Đề kiểu như này: Sinh viên UTT thì lưu dữ liệu vào file svutt.dat, sinh viên HTTT thì lưu dữ liệu vào file svhttt.dat
+thì code giống Tệp Đề 5
+
+Đề 6 kiểu như này: Định nghĩa class Dictionary cho phép
+a.	(1 điểm) Khởi tạo một danh sách (> 10 từ), có thể tự khởi tạo hoặc nhập dữ liệu
+b.	(3 điểm) Tạo một phương thức tìm kiếm, thực hiện tìm kiếm một từ trong từ điển (sử dụng thuật toán tìm nhị phân, tìm tuần tự được ½ số điểm).
+thì là tệp Dictionary
+
+Đề 7 kiểu như này: 
+Thiết kế các phương thức thực hiện nhập danh sách n thí sinh của cả 2 khối A, C từ bàn phím.
+b)	(1.5 điểm) In danh sách thí sinh trúng tuyển (tổng điểm > 20) ra màn hình.
+c)	(1.5 điểm) Ghi toàn bộ thông tin thí sinh của 3 khối vào file thisinh.txt
+thì là tệp SinhVienKhoiAhoacC
+
+Đề 8 kiểu như này:
+Thiết kế phương thức cho phép nhập thông tin Number.
+b.	(2 điểm) Nếu người dùng tạo mới đối tượng Number thì hãy khởi tạo đối tượng Number (có kiểm tra điều kiện nhập min < value < max, bắt các lỗi exception).
+thì là tệp Number
+
+Đề 9 kiểu như này 
+Hãy định nghĩa class Book gồm các thuộc tính id, authors, title, category (nhận 1 trong các giá trị: tạp chí, KHXH, KHTN, luận văn) và các phương thức khởi tạo, các getters/setters
+có thể dựa vào tệp SinhVien và tệp Đề 5 đề tham khảo comboBox nhận 1 trong các giá trị: tạp chí, KHXH, KHTN, luận văn
+
+Tệp Đề 11 là
+Tạo một lớp MyDate có 3 thuộc tính ngày, tháng, năm [ myDate(int date, mouth, year) ]. Xây dựng hai phương thức khởi tạo
+(một phương thức không có tham số và một phương thức có tham số có kiểu là chính lớp đó). Tạo một phưong thức nhập từ bàn phím và in ra màn hình.
+b.	(1 điểm) Tạo lớp phân số PS có hai thuộc tính là tử và mẫu. Xây dựng hai hàm khởi tạo có tham số khác nhau. Xây dựng các phương thức cộng, trừ, nhân, chia phân số
+
+
